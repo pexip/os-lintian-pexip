@@ -1,0 +1,6 @@
+maintainer			~~	^Pexip AS <packaging\@pexip\.com>	~~ != Pexip AS <packaging@pexip.com>
+xsbc-pexip-original-maintainer	~~	.					~~ must be set to original Maintainer field
+xs-pexip-upstream		~~	.					~~ must be set to Debian mirror and distribution
+pexip-original-maintainer	~~	.					~~ must be set to original Maintainer field
+pexip-original-uploaders	~~	.					~~ must be set to original Uploaders field
+pexip-upstream			~~	.					~~ must be set to Debian mirror and distribution
