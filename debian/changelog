@@ -1,3 +1,9 @@
+lintian-pexip (0.1-0pexip2) pexip; urgency=medium
+
+  * Rebuild for bullseye.
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Wed, 28 Sep 2022 17:05:59 +0100
+
 lintian-pexip (0.1-0pexip1) pexip; urgency=medium
 
   * Initial release
