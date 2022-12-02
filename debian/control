@@ -1,6 +1,6 @@
 Source: lintian-pexip
 Section: devel
-Priority: important
+Priority: optional
 Maintainer: Pexip AS <packaging@pexip.com>
 Standards-Version: 4.2.1
 Build-Depends: debhelper (>= 9)

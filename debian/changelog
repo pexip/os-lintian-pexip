@@ -1,3 +1,9 @@
+lintian-pexip (0.1-0pexip3) pexip; urgency=medium
+
+  * Drop priority to optional, should never have been important!
+
+ -- Steve McIntyre <steve.mcintyre@pexip.com>  Fri, 02 Dec 2022 10:52:18 +0000
+
 lintian-pexip (0.1-0pexip2) pexip; urgency=medium
 
   * Rebuild for bullseye.
