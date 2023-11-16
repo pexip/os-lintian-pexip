@@ -1,3 +1,9 @@
+lintian-pexip (0.1-0pexip4) pexip-bookworm; urgency=medium
+
+  * Initial bookworm build
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 16 Nov 2023 10:09:26 +0000
+
 lintian-pexip (0.1-0pexip3) pexip; urgency=medium
 
   * Drop priority to optional, should never have been important!
