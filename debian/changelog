@@ -1,3 +1,9 @@
+lintian-pexip (0.1-0pexip5) pexip-bookworm; urgency=medium
+
+  * Bookworm build for product distribution
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Sat, 09 Dec 2023 22:55:32 +0000
+
 lintian-pexip (0.1-0pexip4) pexip-bookworm; urgency=medium
 
   * Initial bookworm build
