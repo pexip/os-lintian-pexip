@@ -1,3 +1,9 @@
+lintian-pexip (0.1-0+pexip24u6) pexip-bookworm; urgency=medium
+
+  * New versioning scheme
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 01 Feb 2024 16:09:21 +0000
+
 lintian-pexip (0.1-0pexip5) pexip-bookworm; urgency=medium
 
   * Bookworm build for product distribution
