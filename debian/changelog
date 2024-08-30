@@ -1,3 +1,12 @@
+lintian-pexip (0.1-0+pexip24u8) pexip; urgency=medium
+
+  * Install files from inside the debian directory, so we don't have
+    to mess with "upstream" source files and patches.
+  * Loosen the required version check - we don't end in +pexipX any
+    more.
+
+ -- Steve McIntyre <steve.mcintyre@pexip.com>  Fri, 30 Aug 2024 16:52:38 +0100
+
 lintian-pexip (0.1-0+pexip24u7) pexip; urgency=medium
 
   * Update the PexOS profile to match newer lintian expectations
