@@ -3,7 +3,7 @@ Section: devel
 Priority: optional
 Maintainer: Pexip AS <packaging@pexip.com>
 Standards-Version: 4.2.1
-Build-Depends: debhelper (>= 9)
+Build-Depends: debhelper-compat (= 12)
 Uploaders: Steve McIntyre <steve.mcintyre@pexip.com>
 
 Package: lintian-pexip
