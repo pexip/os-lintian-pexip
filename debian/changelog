@@ -1,4 +1,4 @@
-lintian-pexip (0.1-0+pexip24u7) pexip-bookworm; urgency=medium
+lintian-pexip (0.1-0+pexip24u7) pexip; urgency=medium
 
   * Update the PexOS profile to match newer lintian expectations
     + Separate using spaces, not commas
